@@ -5,7 +5,7 @@
       "Send_an_email_(V2)": {
         "inputs": {
           "body": {
-            "Body": "<p>Update: Workflow Updated is now updated. </p>",
+            "Body": "<p>Update: Workflow Updated workflow from VSCODE EXTENSION. </p>",
             "Subject": "Test Email",
             "To": "ramesh.rathod@jda.com"
           },
