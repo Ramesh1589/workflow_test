@@ -5,7 +5,7 @@
       "Send_an_email_(V2)": {
         "inputs": {
           "body": {
-            "Body": "<p>Test Phase: Workflow Testing using Email</p>",
+            "Body": "<p>Update: Workflow Updated is now updated. </p>",
             "Subject": "Test Email",
             "To": "ramesh.rathod@jda.com"
           },
